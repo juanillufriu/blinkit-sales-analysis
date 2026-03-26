@@ -52,7 +52,7 @@
 ```mermaid
 graph LR
     B(Data from Excel)
-    B --> C{Data Cleaning in Excel}
+    B --> C[Data Cleaning in Excel]
     C --> D[Data Formatting in Power BI]
     D --> E[Data Analysis in Power BI]
     E --> F[Data Visualization in Power BI]
