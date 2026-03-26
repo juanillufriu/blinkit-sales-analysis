@@ -62,8 +62,8 @@ graph LR
 
 ## 📈 Preview | Vista Previa
 
-> **Tip:** Open the `/dist` folder to find the PDF report or download the `.pbix` to interact with the data.
-> **Consejo:** Abrí la carpeta `/dist` para encontrar el reporte PDF o descarga el `.pbix` para interactuar con los datos.
+> **Tip:** Open the `/dashboard` folder to find the PDF report or download the `.pbix` to interact with the data.
+> **Consejo:** Abrí la carpeta `/dashboard` para encontrar el reporte PDF o descarga el `.pbix` para interactuar con los datos.
 
 ---
 <p align="center">
