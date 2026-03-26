@@ -47,6 +47,18 @@
 **ES:** Implementación de un Esquema Estrella y fórmulas DAX para un seguimiento preciso de KPIs.
 
 ---
+## 🔀 Workflow | Flujo de Trabajo
+
+```mermaid
+graph LR
+    B(Data from Excel)
+    B --> C{Data Cleaning in Excel}
+    C --> D[Data Formatting in Power BI]
+    D --> E[Data Analysis in Power BI]
+    E --> F[Data Visualization in Power BI]
+    F --> G[Presenting the Data with a Report]
+```
+---
 
 ## 📈 Preview | Vista Previa
 
