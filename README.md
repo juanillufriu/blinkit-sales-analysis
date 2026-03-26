@@ -19,13 +19,13 @@
 ## 📂 Project Resources | Recursos del Proyecto
 
 **EN:**
-* **Dataset:** Original raw data and processed information (ZIP format).
+* **Dataset:** Original raw data and processed information (.xlsx format).
 * **Power BI File (.pbix):** The core interactive dashboard with DAX measures.
 * **Design Assets:** Custom background template (.pptx) and UI elements (.svg).
 * **Executive Report:** A final PDF summary showing the dashboard in action.
 
 **ES:**
-* **Dataset:** Datos crudos originales e información procesada (formato ZIP).
+* **Dataset:** Datos crudos originales e información procesada (formato Excel).
 * **Archivo Power BI (.pbix):** El dashboard interactivo con medidas DAX.
 * **Activos de Diseño:** Template de fondo personalizado (.pptx) y elementos UI (.svg).
 * **Reporte Ejecutivo:** Un resumen final en PDF con el dashboard en funcionamiento.
