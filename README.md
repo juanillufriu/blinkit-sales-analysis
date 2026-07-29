@@ -1,5 +1,4 @@
-# 📊 Blinkit Sales Analysis | End-to-End BI Project
-# 📊 Análisis de Ventas Blinkit | Proyecto BI Integral
+# 📊 Blinkit Sales Analysis - End-to-End BI Project | Análisis de Ventas Blinkit - Proyecto BI Integral
 
 <p align="left">
   <img src="https://img.shields.io/badge/Tools-Excel%20%7C%20Power%20BI%20%7C%20Power%20Query-yellow?style=for-the-badge" alt="Tools">
