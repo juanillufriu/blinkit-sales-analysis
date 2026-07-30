@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Role-Data%20Engineer%20%26%20Analyst-blue?style=for-the-badge" alt="Role">
 </p>
--->
+
 
 <table width="100%" border="0">
   <tr>
@@ -24,7 +24,7 @@
     </td>
   </tr>
 </table>
-
+-->
 ---
 
 ## 🌎 Overview | Descripción General
