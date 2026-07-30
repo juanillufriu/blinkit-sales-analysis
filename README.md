@@ -2,29 +2,11 @@
 **Status:** Completed | **Role:** Data Engineer & Analyst
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Role-Data%20Engineer%20%26%20Analyst-blue?style=for-the-badge" alt="Role">
-  
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=excel&logoColor=white" alt="Tools">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Tools">  
   <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Tools">
 </p>
 
-<!--
-<table width="100%" border="0">
-  <tr>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=excel&logoColor=white" alt="Tools">
-      <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Tools">  
-      <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Tools">
-    </td>
-    <td align="right">
-      <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status">
-      <img src="https://img.shields.io/badge/Role-Data%20Engineer%20%26%20Analyst-blue?style=for-the-badge" alt="Role">
-    </td>
-  </tr>
-</table>
--->
 ---
 
 ## 🌎 Overview | Descripción General
