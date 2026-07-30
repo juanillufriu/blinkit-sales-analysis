@@ -2,20 +2,11 @@
 
 ### 📋 Project Data
 
-<table border="0">
-  <tr>
-    <td><b>Status</b></td>
-    <td><img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status"></td>
-  </tr>
-  <tr>
-    <td><b>Role</b></td>
-    <td><img src="https://img.shields.io/badge/Role-Data%20Engineer%20%26%20Analyst-blue?style=for-the-badge" alt="Role"></td>
-  </tr>
-  <tr>
-    <td><b>Author</b></td>
-    <td>Juan Ignacio Llufriu</td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Role-Data%20Engineer%20%26%20Analyst-blue?style=for-the-badge" alt="Role">
+  <img src="https://img.shields.io/badge/Author-Juan%20Ignacio%20Llufriu-lightblue?style=for-the-badge" alt="Author">    
+</p>
 
 ### 🛠️ Tech Stack
 <p align="left">
